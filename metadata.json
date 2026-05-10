@@ -1,0 +1,5 @@
+{
+  "name": "SkinAI Care",
+  "description": "An intelligent app that uses AI to analyze skin spots, moles, and changes via the smartphone camera, providing preliminary risk assessment and personalized treatment recommendations.",
+  "requestFramePermissions": ["camera"]
+}
